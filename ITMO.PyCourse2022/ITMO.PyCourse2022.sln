@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ITMO.PyCourse2022.Lab2", "ITMO.PyCourse2022.Lab2\ITMO.PyCourse2022.Lab2.pyproj", "{837B240E-C244-40A3-A16F-797F5EC330A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{837B240E-C244-40A3-A16F-797F5EC330A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{837B240E-C244-40A3-A16F-797F5EC330A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36780511-1FB5-43FB-AFD7-B4BA5C279EBA}
+	EndGlobalSection
+EndGlobal
