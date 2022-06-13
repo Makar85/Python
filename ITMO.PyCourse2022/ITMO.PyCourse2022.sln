@@ -11,6 +11,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ITMO.PyCourse2022.Lab5", "I
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ITMO.PyCourse2022.Lab4", "ITMO.PyCourse2022.Lab4\ITMO.PyCourse2022.Lab4.pyproj", "{05026C66-2CAE-4827-9EF4-D37D01F7F467}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Main_task", "Main_task\Main_task.pyproj", "{B66E7A6B-447D-4E92-8EAF-CD0FDE841A0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,8 @@ Global
 		{400A9482-6A45-4222-B9D3-AF5CBBE9641C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05026C66-2CAE-4827-9EF4-D37D01F7F467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{05026C66-2CAE-4827-9EF4-D37D01F7F467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66E7A6B-447D-4E92-8EAF-CD0FDE841A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66E7A6B-447D-4E92-8EAF-CD0FDE841A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
