@@ -1,9 +1,14 @@
-import statistics
+from statistics import *
+from math import *
+from random import *
 
-numbers = [22,11,17,88,74,57,91,287,94,311]
-numbers1 = [1,3,10,7]
-print(numbers[-1])
-median=statistics.median(numbers1)
-print(median)
-devitation=statistics.stdev(numbers)
-print(devitation)
+numbers = []
+for i in range(10):
+    numbers.append(randint(1,100))
+print(numbers)
+print('сумма всех чисел: ', fsum(numbers) )
+print('среднее значение: ', mean(numbers) )
+print('медиана: ', median(numbers))
+print('стандартное отклонение: ', stdev(numbers))
+print('случайное число в интервае от 1 до 100: ', randint(1,100))
+
