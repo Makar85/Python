@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>400a9482-6a45-4222-b9d3-af5cbbe9641c</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>ITMO.PyCourse2022.Lab5.py</StartupFile>
+    <StartupFile>Game.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,7 +23,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="ITMO.PyCourse2022.Lab5.py" />
+    <Compile Include="Game.py" />
     <Compile Include="Core.py">
       <SubType>Code</SubType>
     </Compile>
